@@ -1,4 +1,3 @@
-# Bank-management-application-
 # Bank Management Application (C++)
 
 A console-based banking system demonstrating object-oriented design and
